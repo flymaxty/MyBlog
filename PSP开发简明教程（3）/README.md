@@ -213,6 +213,10 @@
 
 所以我只是想让大家多了解下它，毕竟PSP的破解很有代表性，研究它或许对我们以后从事类似的工作有一定的帮助。
 
+**本文MarkDown源文件和提到的示例程序源代码，可以在我的Github上获取。**
+
+>Github地址：[https://github.com/flymaxty/OSChina_Blog](https://github.com/flymaxty/OSChina_Blog)
+
 
 
 

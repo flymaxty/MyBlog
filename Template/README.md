@@ -1,17 +1,16 @@
-#±êÌâ1
+#æ ‡é¢˜1
 
-##**±êÌâ2**
+##**æ ‡é¢˜2**
 
+**æœ¬æ–‡MarkDownæºæ–‡ä»¶å’Œæåˆ°çš„ç¤ºä¾‹ç¨‹åºæºä»£ç ï¼Œå¯ä»¥åœ¨æˆ‘çš„Githubä¸Šè·å–ã€‚**
 
+>Githubåœ°å€ï¼š[https://github.com/flymaxty/OSChina_Blog](https://github.com/flymaxty/OSChina_Blog)
 
-
-
-
-
-
-![ÔÚ´ËÊäÈëÍ¼Æ¬ÃèÊö][1]
-[ÔÚ´ËÊäÈëÁ´½ÓÃèÊö][2]
+![åœ¨æ­¤è¾“å…¥å›¾ç‰‡æè¿°][1]
+[åœ¨æ­¤è¾“å…¥é“¾æ¥æè¿°][2]
 
 
-  [1]: https://raw.githubusercontent.com/flymaxty/OSChina_Blog/master/Template/image/01.jpg
-  [2]: http://www.baidu.com
+
+
+[1]: https://raw.githubusercontent.com/flymaxty/OSChina_Blog/master/Template/image/01.jpg
+[2]: http://www.baidu.com

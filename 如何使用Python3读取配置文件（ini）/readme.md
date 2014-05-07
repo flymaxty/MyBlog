@@ -134,3 +134,7 @@ Python读取ini文件还是十分简单的，这里我给出的只是一些简�
 >Python3官方参考文档
 >
 >[14.2. configparser — Configuration file parser](https://docs.python.org/3/library/configparser.html)
+
+**本文MarkDown源文件和提到的示例程序源代码，可以在我的Github上获取。**
+
+>Github地址：[https://github.com/flymaxty/OSChina_Blog](https://github.com/flymaxty/OSChina_Blog)

@@ -127,3 +127,7 @@ ini是我们常见到的配置文件格式之一。
 ##**总结**
 
 与Python一样，C++读取ini文件也比较简单，当然这里我给出的只是一些简单的使用方法，如果想用更高级的功能，可以进一步参考MSDN中相关的文档。
+
+**本文MarkDown源文件和提到的示例程序源代码，可以在我的Github上获取。**
+
+>Github地址：[https://github.com/flymaxty/OSChina_Blog](https://github.com/flymaxty/OSChina_Blog)
