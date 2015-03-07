@@ -220,7 +220,7 @@
 
 
 
-[1]:https://raw.githubusercontent.com/flymaxty/OSChina_Blog/master/PSP%E5%BC%80%E5%8F%91%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B%EF%BC%883%EF%BC%89/image/01.jpg
+[1]:./image/01.jpg
 [2]:https://raw.githubusercontent.com/flymaxty/OSChina_Blog/master/PSP%E5%BC%80%E5%8F%91%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B%EF%BC%883%EF%BC%89/image/02.jpg
 [3]:https://raw.githubusercontent.com/flymaxty/OSChina_Blog/master/PSP%E5%BC%80%E5%8F%91%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B%EF%BC%883%EF%BC%89/image/03.jpg
 [4]:http://en.wikibooks.org/wiki/PSP_Programming
